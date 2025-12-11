@@ -9,3 +9,9 @@ header {
     color: white;
     padding: 1rem;
 }
+
+/*Style formulaire de contact*/
+
+.form-btn{
+  background: blue;
+}
